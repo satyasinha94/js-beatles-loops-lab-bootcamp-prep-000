@@ -29,6 +29,6 @@ return newarray3
   var i = [];
   var length = musicians.length
   for (i = 0; i < length; i++) {
-    return musicians[i] + " plays " + instruments[i];
+    return musicians[i] + " play " + instruments[i];
   }
 }
